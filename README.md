@@ -19,6 +19,6 @@ Confira o artigo e o vídeo explicativo neste artigo:
 
 ## Feedback
 
-Entre em <a href="http://www.eduardopires.net.br/" target="_blank">contato</a> para enviar seu feedback
+Referência: <a href="http://www.eduardopires.net.br/" target="_blank">contato</a> para enviar seu feedback
 
 Eduardo Pires - Microsoft MVP ASP.NET
